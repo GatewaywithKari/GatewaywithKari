@@ -9,7 +9,7 @@ export default function RemedyPage({ badge, name, potency, blurb }) {
         </Link>
       </header>
       <div className="announcement">
-        Next class: <strong>September 3rd!</strong>
+        Next class: <strong>January 7th, 2027!</strong>
       </div>
 
       <section className="remedy-hero wrap">

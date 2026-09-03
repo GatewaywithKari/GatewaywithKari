@@ -33,7 +33,7 @@ const hotspots = [
   },
   {
     label: "Insect Bites — Ledum 200",
-    href: "https://joettecalabrese.com/blog/summertime-and-the-ledum-is-easy/",
+    href: "https://joettecalabrese.com/blog/my-top-5-sizzling-summer-remedies/",
     style: { left: "72.39%", top: "65.17%", width: "18.30%", height: "8.51%" },
   },
   {
@@ -41,13 +41,18 @@ const hotspots = [
     href: "https://joettecalabrese.com/blog/emergency-remedy-series-you-know-arnica-or-do-you/",
     style: { left: "23.00%", top: "66.54%", width: "18.62%", height: "8.51%" },
   },
+  {
+    label: "Ear Infections — Hepar Sulph 200",
+    href: "https://joettecalabrese.com/blog/my-top-5-sizzling-summer-remedies/",
+    style: { left: "7.45%", top: "46.40%", width: "18.46%", height: "8.51%" },
+  },
 ];
 
 export default function Home() {
   return (
     <div className="home-page">
       <div className="announcement">
-        Next class: <strong>September 3rd!</strong>
+        Next class: <strong>January 7th, 2027!</strong>
       </div>
 
       <div className="image-page">
