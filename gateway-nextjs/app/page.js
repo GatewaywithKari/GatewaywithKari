@@ -43,7 +43,7 @@ const hotspots = [
   },
   {
     label: "Ear Infections — Hepar Sulph 200",
-    href: "https://joettecalabrese.com/blog/my-top-5-sizzling-summer-remedies/",
+    href: "https://joettecalabrese.com/blog/swimmers-ear-lets-time-it/",
     style: { left: "7.45%", top: "46.40%", width: "18.46%", height: "8.51%" },
   },
 ];
